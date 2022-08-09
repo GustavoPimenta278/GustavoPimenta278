@@ -1,6 +1,6 @@
 <h1> 🦆🦆 Bom dia, boa tarde, boa noite. Meu nome é Gustavo </h1> 
 
-- 🐊 Atualmente trabalho como auxiliar de TI
+- 🐊 Atualmente trabalho como assistente de TI
 
 - (☞ﾟヮﾟ)☞ Estou estudando Javascript
 
