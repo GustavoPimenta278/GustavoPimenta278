@@ -1,10 +1,11 @@
-<h1> 🦆🦆 Bom dia, boa tarde, boa noite. Meu nome é Gustavo </h1> 
+<h1> Consultor ERP TOTVS Protheus</h1> 
 
-- 🐊 Atualmente trabalho como assistente de TI
+- Desenvolvimento de telas, relatórios, APIs, e customizações utilizando ADVPL e MVC
 
-- (☞ﾟヮﾟ)☞ Estou estudando Javascript
+- Atualmente estudando TLPP e integrações de APIs
 
-- ༼ つ ◕_◕ ༽つ Qualquer coisa me chama no e-mail gustavo.pimenta278@outlook.com
+- E-mail: gustavo.pimenta278@outlook.com
+- Telefone: +55 (11) 99200-9755
 
 ##
 
