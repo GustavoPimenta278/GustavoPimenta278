@@ -8,15 +8,6 @@
 - Telefone: +55 (11) 99200-9755
 
 ##
-
-<!-- github status-->
-<div align="center">
-  <a href="https://github.com/GustavoPimenta278">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPimenta278&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPimenta278&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  
   <!-- icones de linguagens -->
   <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-language-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
